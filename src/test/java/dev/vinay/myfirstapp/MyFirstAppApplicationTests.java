@@ -1,4 +1,4 @@
-package dev.vinay.My_FirstApp;
+package dev.vinay.myfirstapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
